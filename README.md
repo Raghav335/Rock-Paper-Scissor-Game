@@ -70,7 +70,7 @@ rock-paper-scissors/
 
 ## 🖼️ Screenshot Example
 
-> *(Paste a screenshot of your game screen here with filename like `preview.png`)*
+> *(https://github.com/Raghav335/Rock-Paper-Scissor-Game/blob/main/rock.png.jpg`)*
 
 
 ## 📄 License
