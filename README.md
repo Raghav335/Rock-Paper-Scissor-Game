@@ -5,7 +5,7 @@ A fun and interactive Rock-Paper-Scissors game where you play against the comput
 
 ## 📸 Game Preview
 
-![Game Screenshot](rock-paper-scissors-preview.png) *(Add your screenshot here)*
+![Game Screenshot](https://github.com/Raghav335/Rock-Paper-Scissor-Game/blob/main/paper.png.jpg) *(Add your screenshot here)*
 
 ---
 
