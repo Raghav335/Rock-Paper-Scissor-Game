@@ -68,9 +68,6 @@ rock-paper-scissors/
 - DOM manipulation to show result and update score
 - Conditional logic to determine the winner
 
-## 🖼️ Screenshot Example
-
-> *('https://github.com/Raghav335/Rock-Paper-Scissor-Game/blob/main/rock.png.jpg`)*
 
 
 ## 📄 License
@@ -78,7 +75,6 @@ rock-paper-scissors/
 This project is licensed under the **MIT License**.  
 Feel free to use, modify, and share!
 
----
 
 ## 🙋‍♂️ Want to Improve It?
 
